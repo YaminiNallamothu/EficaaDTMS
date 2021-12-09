@@ -5,7 +5,22 @@
       "ProjectGuid": "ecc414dc-f1cc-4632-970d-673b2d908b04",
       "DisplayName": "EficaaDTMSServices",
       "ColorIndex": 0
+    },
+    "da165791-38f1-4d78-9c53-2a61b9198759": {
+      "ProjectGuid": "da165791-38f1-4d78-9c53-2a61b9198759",
+      "DisplayName": "EficaaDTMSServices.Models",
+      "ColorIndex": 1
+    },
+    "0a14ec1c-7874-4891-bd76-72f83dc0edd2": {
+      "ProjectGuid": "0a14ec1c-7874-4891-bd76-72f83dc0edd2",
+      "DisplayName": "EficaaDTMSServices.BussinessLogicLayer",
+      "ColorIndex": 2
+    },
+    "d84f7bc5-d436-48d5-ba52-a8377a017297": {
+      "ProjectGuid": "d84f7bc5-d436-48d5-ba52-a8377a017297",
+      "DisplayName": "EficaaDTMSServices.DataAccessLayer",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
